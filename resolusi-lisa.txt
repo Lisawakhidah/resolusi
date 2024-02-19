@@ -3,3 +3,4 @@
 3. Belajar Flutter & Dart
 4. Konsisten dalam Belajar
 5. Belajar Machine Learning
+6. Belajar Kotlin
