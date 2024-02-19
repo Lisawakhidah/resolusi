@@ -1,3 +1,5 @@
 1. Belajar Git & Github
-2. Belajar Java Script
+2. Belajar JavaScript
 3. Belajar Flutter & Dart
+4. Konsisten dalam Belajar
+5. Belajar Machine Learning
