@@ -3,3 +3,5 @@ Rencana Belajar Lisa
 1. Belajar Git & Github
 2. Belajar Flutter & Dart
 3. Menyelesaikan Kelas Machine Learning (Kelas Dicoding)
+4. Belajar Konsisten
+5. Nambah Literasi
