@@ -4,4 +4,5 @@ Rencana Belajar Lisa
 2. Belajar Flutter & Dart
 3. Menyelesaikan Kelas Machine Learning (Kelas Dicoding)
 4. Belajar Konsisten
-5. Nambah Literasi
+5. Menambahkan Literasi
+6. Belajar JavaScript
