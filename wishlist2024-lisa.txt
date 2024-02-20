@@ -5,4 +5,3 @@ Rencana Belajar Lisa
 3. Menyelesaikan Kelas Machine Learning (Kelas Dicoding)
 4. Belajar Konsisten
 5. Menambahkan Literasi
-6. Belajar JavaScript
