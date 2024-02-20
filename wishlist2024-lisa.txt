@@ -1,0 +1,5 @@
+Rencana Belajar Lisa
+
+1. Belajar Git & Github
+2. Belajar Flutter & Dart
+3. Menyelesaikan Kelas Machine Learning
